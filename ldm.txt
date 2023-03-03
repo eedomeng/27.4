@@ -1,5 +1,6 @@
 hi
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello
 1
 2
@@ -8,3 +9,7 @@ hello
 
 test commit
 >>>>>>> 64256d8a0d77d828fc3a99d8edb4d81e47df2154
+=======
+
+chg test
+>>>>>>> test
